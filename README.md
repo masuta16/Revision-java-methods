@@ -1,3 +1,3 @@
-# Exercício de Criação de metodos em java
+# Exercise about creation of Java methods
 
-Exercicio sobre metodos Java
+Exercise about Java methods
